@@ -46,11 +46,14 @@ Spork.prefork do
     #     --seed 1234
     config.order = "random"
   end
+
+  require 'database_cleaner'
+  DatabaseCleaner.strategy = :truncation
 end
 
 Spork.each_run do
   # This code will be run each time you run your specs.
-
+  DatabaseCleaner.clean
 end
 
 # --- Instructions ---

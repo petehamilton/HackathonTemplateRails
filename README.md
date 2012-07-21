@@ -1,9 +1,10 @@
 # Hackathon Template for Rails
 A basic Rails app template for a hackathon project
 
-Requirements (Assumes Linux/OSX)
-================================
+Requirements
+============
 
+* I assume all teammembers are running OSX or Ubuntu (or some other Linux flavour). Windows users, You're on your own...)
 * [Homebrew](http://mxcl.github.com/homebrew/) (OSX only)
 * Git ``$ sudo apt-get install git``` or ``$ brew install git```
 * RVM + Ruby 1.9.3

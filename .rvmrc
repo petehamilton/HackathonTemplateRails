@@ -1,0 +1,2 @@
+rvm --install use 1.9.3
+rvm --create gemset use hackathon

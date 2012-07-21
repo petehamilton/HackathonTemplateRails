@@ -8,7 +8,7 @@ Requirements (Assumes Linux/OSX)
 * Git ``$ sudo apt-get install git``` or ``$ brew install git```
 * RVM
   * Install RVM ```curl -L https://get.rvm.io | bash -s stable```
-  * Install Ruby 1.9.2 ```rvm install 1.9.2```
+  * Install Ruby 1.9.3 ```rvm install 1.9.2```
   * Set default ruby version ```rvm use 1.9.2 --default```
 
 
@@ -32,3 +32,4 @@ Sublime
 Getting Started
 ===============
 # Fork this project on github: ```$ git clone git@github.com:PeterHamilton/HackathonTemplateRails.git```
+# Run ``$ bundle install``` in the root to get all the gems

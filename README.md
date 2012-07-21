@@ -33,6 +33,8 @@ Getting Started
 ===============
 
 * Clone template locally ```$ git clone git@github.com:PeterHamilton/HackathonTemplateRails.git```
-* Remove git ```rm -rf .git``` in root
+* Remove git ```$ rm -rf .git``` in root
 * Create new repo for hackathon
 * Run ```$ bundle install``` in the root to get all the gems
+* Run rails server ```$ rails s```
+* Check rails is running by visiting [http://localhost:3000/](http://localhost:3000/) You should be able to see a static index.html file.

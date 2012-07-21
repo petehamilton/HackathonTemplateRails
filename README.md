@@ -6,7 +6,7 @@ Requirements (Assumes Linux/OSX)
 
 * [Homebrew](http://mxcl.github.com/homebrew/) (OSX only)
 * Git ``$ sudo apt-get install git``` or ``$ brew install git```
-* RVM
+* RVM + Ruby 1.9.3
   * Install RVM ```curl -L https://get.rvm.io | bash -s stable```
   * Install Ruby 1.9.3 ```rvm install 1.9.2```
   * Set default ruby version ```rvm use 1.9.2 --default```

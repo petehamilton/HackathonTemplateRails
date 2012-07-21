@@ -32,5 +32,5 @@ Sublime
 Getting Started
 ===============
 
-# Fork this project on github: ```$ git clone git@github.com:PeterHamilton/HackathonTemplateRails.git```
-# Run ``$ bundle install``` in the root to get all the gems
+* Fork this project on github: ```$ git clone git@github.com:PeterHamilton/HackathonTemplateRails.git```
+* Run ``$ bundle install``` in the root to get all the gems
